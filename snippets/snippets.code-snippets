@@ -1,0 +1,7 @@
+{
+  "Print to console": {
+    "prefix": "rfc",
+    "body": ["export const $1 = () => {", "  return <h1>APP</h1>;", "};"],
+    "description": "Cria uma estrutura base para um componente React"
+  }
+}

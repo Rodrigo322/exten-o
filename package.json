@@ -1,0 +1,20 @@
+{
+  "name": "rfc",
+  "displayName": "snippet rfc",
+  "description": "Cria uma estrutura base para um componente React",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
